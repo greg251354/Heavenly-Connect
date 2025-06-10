@@ -1,2 +1,2 @@
 # Heavenly-Connect
-Chatting site
+Ai powered Chatting site
